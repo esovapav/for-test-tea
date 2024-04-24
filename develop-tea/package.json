@@ -1,6 +1,6 @@
 {
   "name": "tea-testor",
-  "version": "1.4.8",
+  "version": "1.4.11",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -10,13 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trofimuk-mary/tea-testor.git"
+    "url": "https://github.com/abcoc4/develop-tea.git"
   },
   "dependencies": {
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18",
-    "the-teas": "^1.0.0"
+    "the-teas": "^1.0.0",
+    "tea-testor": "1.4.8"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -28,8 +29,7 @@
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
     "typescript": "^5",
-    "the-teas": "^1.0.0"
   },
   "license": "ISC",
-  "homepage": "https://github.com/trofimuk-mary/tea-testor"
+  "homepage": "https://github.com/abcoc4/develop-tea"
 }
