@@ -1,6 +1,6 @@
 {
   "name": "develop-tea",
-  "version": "1.4.11",
+  "version": "1.4.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -10,14 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abcoc4/develop-tea.git"
+    "url": "https://github.com/esovapav/for-test-tea.git"
   },
   "dependencies": {
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18",
     "the-teas": "^1.0.0",
-    "tea-testor": "1.4.8"
+    "tea-testor": "1.4.8",
+    "develop-tea": "1.4.11"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -31,5 +32,5 @@
     "typescript": "^5"
   },
   "license": "ISC",
-  "homepage": "https://github.com/abcoc4/develop-tea"
+  "homepage": "https://github.com/esovapav/for-test-tea"
 }
